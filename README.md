@@ -1,2 +1,2 @@
 # Project-2
-Color Vocab Project
+Color Vocab Project(CSS)
